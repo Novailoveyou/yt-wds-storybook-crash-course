@@ -1,4 +1,30 @@
-# Getting Started with Create React App
+# React Storybook Crash Course
+
+## About
+
+This is me following Web Dev Simplified's [udemy course](https://youtu.be/FUKpWgRyPlU)
+
+Year 2021
+
+## What I learned
+
+### CLI
+
+Init Storybooks (should be used after the app is there)
+
+```zsh
+npx sb init
+```
+
+Start Storybooks in dev env
+
+```zsh
+npm run storybook
+```
+
+## React initial readme
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
