@@ -2,7 +2,7 @@
 
 ## About
 
-This is me following Web Dev Simplified's [udemy course](https://youtu.be/FUKpWgRyPlU)
+This is me following Web Dev Simplified's [youtube video](https://youtu.be/FUKpWgRyPlU)
 
 Year 2021
 
